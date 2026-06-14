@@ -1,0 +1,122 @@
+{
+  "users": [
+    {
+      "_id": "8lp6i5kmqc6l1si",
+      "name": "Dhairya Pandit",
+      "email": "dhairyapandit7@gmail.com",
+      "password": "$2b$10$1c4ljZ9ni5QakkLPSgebiOir2oSqVYICdRFxuvl1DrWd2ca1roHN6",
+      "createdAt": "2026-06-13T09:56:44.754Z"
+    }
+  ],
+  "expenses": [
+    {
+      "_id": "tl3qqjamqc8i73t",
+      "userId": "8lp6i5kmqc6l1si",
+      "title": "electicity",
+      "amount": 12000,
+      "category": "Transport",
+      "date": "2026-06-13",
+      "notes": "",
+      "createdAt": "2026-06-13T10:50:30.905Z"
+    },
+    {
+      "_id": "u5x0ayemqc8ifmt",
+      "userId": "8lp6i5kmqc6l1si",
+      "title": "electicity",
+      "amount": 12345,
+      "category": "Utilities & Bills",
+      "date": "2026-06-13",
+      "notes": "",
+      "createdAt": "2026-06-13T10:50:41.957Z"
+    },
+    {
+      "_id": "e1w9yp7mqc8ius8",
+      "userId": "8lp6i5kmqc6l1si",
+      "title": "rwt",
+      "amount": 123,
+      "category": "Entertainment",
+      "date": "2026-06-13",
+      "notes": "",
+      "createdAt": "2026-06-13T10:51:01.592Z"
+    },
+    {
+      "_id": "sqnejf5mqcbx8kj",
+      "userId": "8lp6i5kmqc6l1si",
+      "title": "tdsy",
+      "amount": 1234,
+      "category": "Utilities & Bills",
+      "date": "2026-07-09",
+      "notes": "",
+      "createdAt": "2026-06-13T12:26:11.491Z"
+    }
+  ],
+  "incomes": [
+    {
+      "_id": "89grqr1mqc6ml67",
+      "userId": "8lp6i5kmqc6l1si",
+      "source": "Monthly Salary",
+      "amount": 100000,
+      "date": "2026-06-13",
+      "createdAt": "2026-06-13T09:57:56.527Z"
+    },
+    {
+      "_id": "dskithbmqc8k61o",
+      "userId": "8lp6i5kmqc6l1si",
+      "source": "Investments / Stocks",
+      "amount": 123456,
+      "date": "2026-06-13",
+      "createdAt": "2026-06-13T10:52:02.844Z"
+    },
+    {
+      "_id": "rn07kz0mqc8krkb",
+      "userId": "8lp6i5kmqc6l1si",
+      "source": "Monthly Salary",
+      "amount": 120000,
+      "date": "2026-05-13",
+      "createdAt": "2026-06-13T10:52:30.731Z"
+    }
+  ],
+  "budgets": [
+    {
+      "_id": "8uvhyobmqc6w6wm",
+      "userId": "8lp6i5kmqc6l1si",
+      "month": "2026-06",
+      "limit": 150000,
+      "createdAt": "2026-06-13T10:05:24.598Z",
+      "updatedAt": "2026-06-13T11:38:57.457Z"
+    }
+  ],
+  "taxProfiles": [
+    {
+      "_id": "bi9al1cmqc6omjp",
+      "userId": "8lp6i5kmqc6l1si",
+      "salaryIncome": 1200000,
+      "businessIncome": 0,
+      "otherIncome": 0,
+      "deductions80C": 200000,
+      "hra": 60000,
+      "homeLoan": 200000,
+      "nps": 50000,
+      "createdAt": "2026-06-13T09:59:31.621Z",
+      "updatedAt": "2026-06-13T11:55:27.767Z",
+      "deductions80D": 2500,
+      "educationLoan": 50000,
+      "epf": 50000,
+      "elss": 4000
+    }
+  ],
+  "subscriptions": [
+    {
+      "_id": "v12exznmqc8ppig",
+      "userId": "8lp6i5kmqc6l1si",
+      "title": "gym",
+      "amount": 12000,
+      "category": "Entertainment",
+      "frequency": "yearly",
+      "nextDueDate": "2027-06-12",
+      "isActive": true,
+      "createdAt": "2026-06-13T10:56:21.352Z",
+      "updatedAt": "2026-06-13T11:01:22.430Z"
+    }
+  ]
+}

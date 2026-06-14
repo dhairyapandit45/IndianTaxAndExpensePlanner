@@ -1,0 +1,167 @@
+{
+  "users": [
+    {
+      "_id": "kgqe1i6mqccm052",
+      "name": "Dhairya Pandit",
+      "email": "dhairyapandit7@gmail.com",
+      "password": "$2b$10$doho0kLsydtxkRl6kx0hXu2SEEIJHtCtYHPpUBxCOK8IDmeG8poy.",
+      "createdAt": "2026-06-13T12:45:26.967Z"
+    }
+  ],
+  "expenses": [
+    {
+      "_id": "y1fcnw1mqcnkwfc",
+      "userId": "kgqe1i6mqccm052",
+      "title": "electicity",
+      "amount": 12356,
+      "category": "Food & Groceries",
+      "date": "2026-06-13",
+      "notes": "",
+      "createdAt": "2026-06-13T17:52:31.272Z"
+    },
+    {
+      "_id": "do0ydxdmqcnupjq",
+      "userId": "kgqe1i6mqccm052",
+      "title": "net",
+      "amount": 500,
+      "category": "Utilities",
+      "date": "2026-06-01",
+      "notes": "Recurring transaction: net",
+      "createdAt": "2026-06-13T18:00:08.918Z"
+    },
+    {
+      "_id": "svvexbqmqco8nd6",
+      "userId": "kgqe1i6mqccm052",
+      "title": "rwt",
+      "amount": 1234,
+      "category": "Utilities & Bills",
+      "date": "2026-05-08",
+      "notes": "",
+      "createdAt": "2026-06-13T18:10:59.274Z"
+    },
+    {
+      "_id": "1y6qatymqcoeo88",
+      "userId": "kgqe1i6mqccm052",
+      "title": "siutta",
+      "amount": 600,
+      "category": "Housing",
+      "date": "2026-06-06",
+      "notes": "Recurring transaction: siutta",
+      "createdAt": "2026-06-13T18:15:40.329Z"
+    },
+    {
+      "_id": "xsv69otmqcoygd9",
+      "userId": "kgqe1i6mqccm052",
+      "title": "siutta",
+      "amount": 600,
+      "category": "Housing",
+      "date": "2026-06-13",
+      "notes": "Recurring transaction: siutta",
+      "createdAt": "2026-06-13T18:31:03.261Z"
+    },
+    {
+      "_id": "a6mdxlwmqdiq1jj",
+      "userId": "kgqe1i6mqccm052",
+      "title": "j",
+      "amount": 12345,
+      "category": "Food & Groceries",
+      "date": "2026-05-14",
+      "notes": "",
+      "createdAt": "2026-06-14T08:24:19.279Z"
+    },
+    {
+      "_id": "c8ycllomqdng1c8",
+      "userId": "kgqe1i6mqccm052",
+      "title": "tdsy",
+      "amount": 13000,
+      "category": "Rent & Accommodation",
+      "date": "2026-06-14",
+      "notes": "",
+      "createdAt": "2026-06-14T10:36:30.536Z",
+      "updatedAt": "2026-06-14T10:37:08.933Z"
+    }
+  ],
+  "incomes": [
+    {
+      "_id": "ondrgy5mqclwps8",
+      "userId": "kgqe1i6mqccm052",
+      "source": "Monthly Salary",
+      "amount": 123456,
+      "date": "2026-05-13",
+      "createdAt": "2026-06-13T17:05:43.304Z",
+      "updatedAt": "2026-06-14T08:29:57.946Z"
+    },
+    {
+      "_id": "3z0hhrlmqdir13s",
+      "userId": "kgqe1i6mqccm052",
+      "source": "Monthly Salary",
+      "amount": 123456,
+      "date": "2026-06-14",
+      "createdAt": "2026-06-14T08:25:05.368Z",
+      "updatedAt": "2026-06-14T08:29:53.817Z"
+    },
+    {
+      "_id": "cfnsxu3mqdnk57k",
+      "userId": "kgqe1i6mqccm052",
+      "source": "Monthly Salary",
+      "amount": 123456,
+      "date": "2026-07-14",
+      "createdAt": "2026-06-14T10:39:42.176Z"
+    }
+  ],
+  "budgets": [
+    {
+      "_id": "vx2admhmqcm4gsg",
+      "userId": "kgqe1i6mqccm052",
+      "month": "2026-06",
+      "limit": 12345,
+      "createdAt": "2026-06-13T17:11:44.896Z",
+      "updatedAt": "2026-06-14T08:27:27.900Z"
+    }
+  ],
+  "taxProfiles": [
+    {
+      "_id": "femic3emqcgliyq",
+      "userId": "kgqe1i6mqccm052",
+      "salaryIncome": 0,
+      "businessIncome": 0,
+      "otherIncome": 0,
+      "deductions80C": 0,
+      "deductions80D": 0,
+      "educationLoan": 0,
+      "epf": 0,
+      "elss": 0,
+      "hra": 0,
+      "homeLoan": 0,
+      "nps": 0,
+      "createdAt": "2026-06-13T14:37:03.170Z",
+      "updatedAt": "2026-06-14T10:38:37.645Z"
+    }
+  ],
+  "subscriptions": [
+    {
+      "_id": "fserb08mqcnk4lg",
+      "userId": "kgqe1i6mqccm052",
+      "title": "net",
+      "amount": 500,
+      "category": "Utilities",
+      "frequency": "monthly",
+      "nextDueDate": "2026-07-01",
+      "isActive": true,
+      "createdAt": "2026-06-13T17:51:55.204Z",
+      "updatedAt": "2026-06-13T18:08:27.453Z"
+    },
+    {
+      "_id": "a8klb7tmqcoejr8",
+      "userId": "kgqe1i6mqccm052",
+      "title": "siutta",
+      "amount": 600,
+      "category": "Housing",
+      "frequency": "weekly",
+      "nextDueDate": "2026-06-20",
+      "isActive": true,
+      "createdAt": "2026-06-13T18:15:34.532Z",
+      "updatedAt": "2026-06-13T18:31:03.264Z"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Tax & Expense Manager",
+  "description": "A student-ready full-stack tax and expense manager application, designed as a classic college MERN stack project with user authentication, comprehensive income/expense tracking, budget limits, dynamic tax estimation under old and new regimes, and downloadable expense reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
